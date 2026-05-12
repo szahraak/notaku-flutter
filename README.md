@@ -37,4 +37,9 @@ Aplikasi mobile untuk scan, parse, dan track struk belanja dengan teknologi OCR 
 - Seamless fallback ke local OCR jika error
 - Privacy-first: data hanya sent saat ada internet
 
+** 📸 Screenshots
+<img width="540" height="1170" alt="WhatsApp Image 2026-05-12 at 8 48 10 AM" src="https://github.com/user-attachments/assets/4b923ce5-b674-4393-bf3f-b2ce4128dc96" />
+<img width="540" height="1170" alt="WhatsApp Image 2026-05-12 at 8 47 59 AM" src="https://github.com/user-attachments/assets/50da5c0f-fda0-427f-9be2-dfea8909c40a" />
+<img width="540" height="1170" alt="WhatsApp Image 2026-05-12 at 8 47 59 AM (1)" src="https://github.com/user-attachments/assets/9bfe3fc9-0a4b-4728-aa44-4127699fe456" />
+
 
